@@ -1,5 +1,7 @@
 # Chain of responsability
 
+![UML](uml.png)
+
 Este problema tiene como objetivo demostrar cómo utilizar el patrón de "cadena de responsabilidad", utilizando para ello un problema simple:
 
 > Se utiliza la función operación, para poder demostrar la ventaja especifica de este patrón.
