@@ -34,4 +34,4 @@ En nuestro esquema, *Cliente* es la interpretación del *Test*.
 
 
 ### Fuente
-["Chains of responsibility"](https://refactoring.guru/es/design-patterns/chain-of-responsibility).
+["Chain of responsibility"](https://refactoring.guru/es/design-patterns/chain-of-responsibility).
